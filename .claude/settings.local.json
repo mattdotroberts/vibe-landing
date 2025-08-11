@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:hyprnote.com)",
+      "Bash(git --version)"
+    ],
+    "deny": []
+  }
+}
